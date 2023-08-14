@@ -1,0 +1,17 @@
+#incluide<iostream>
+#incluide<string>
+using namespace std;
+string InvertirPalabra (String Palabra);
+int main() 
+{
+int palabra;
+cout<<"ingrese una palabra"<<endl;
+cin>>palabra;
+return 0;
+}
+string InvertirPalabra (String palabra);{
+int i;
+string nfrase;for(i=f.size()-1; i>=0; i--){
+nfrase+=f[i]
+}
+}
